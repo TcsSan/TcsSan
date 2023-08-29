@@ -35,7 +35,12 @@
 # 📊 GitHub Stats:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TcsSan)<br/>
 
+<div align="center">
+  
+<b>"Whatever you are, be a good one." ―Abraham Lincoln</b>
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=TcsSan&label=Visitor%20Counter&color=9&icon=3&pretty=false)](https://visitcount.itsvg.in)
+
 
