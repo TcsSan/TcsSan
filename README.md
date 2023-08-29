@@ -37,5 +37,5 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=TcsSan&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=TcsSan&label=Visitor%20Counter&color=9&icon=3&pretty=false)](https://visitcount.itsvg.in)
 
