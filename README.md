@@ -13,7 +13,7 @@
 
 <!-- Personal Stuff -->
 # 👦🏻 All About ME:
-<li>👨🏻‍💻 I’m currently working on Mobile Development <li>👯 I’m looking to collaborate on a cross-platform frameworks like React Native, Flutter. <li>🤝 I’m looking for help with developing large-scaled project<li>🌱 I’m currently learning Cyber Security and Data Analysis<li>💬 Ask me about anything - I love chatting with you  <li>🎹 Fun fact -  I just start learning piano. <li>📲 More About Me: 
+<li>👨🏻‍💻 I’m currently working on Mobile Development <li>👯 I’m looking to collaborate on a cross-platform frameworks like React Native, Flutter. <li>🤝 I’m looking for help with developing large-scaled project<li>🌱 I’m currently learning Cyber Security and Data Analysis<li>💬 Ask me about anything - I love chatting with you  <li>🎹 Fun fact -  I just start learning piano. <li>📲 More About Me: https://karsontcs.netlify.app/
 
 <br>
 
